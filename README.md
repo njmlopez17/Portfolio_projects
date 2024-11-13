@@ -10,7 +10,8 @@ A showcase in creating a personal portfolio website, leveraging the HTML code.
 
 • Web Scraping using a subset of Amazon dataset:
 
-??
+Using Amazon webpage, the project showcased (from a sampling website) web data harvesting, automating the run, 
+and auto-create (and append) a csv file; using BeautifulSoup and Requests.
 
 • Visualization of an Airbnb portfolio: 
 
