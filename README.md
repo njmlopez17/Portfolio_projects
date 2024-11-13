@@ -4,10 +4,6 @@
 
 A subset of dataset, the work underlines the data cleanup and data correlation activities in line with the subject and dataframe under test.
 
-• Creating a portfolio website: 
-
-A showcase in creating a personal portfolio website, leveraging the HTML code.
-
 • Web Scraping using a subset of Amazon dataset:
 
 Using Amazon webpage, the project showcased the how-to of web data harvesting, automating its run, 
@@ -52,10 +48,6 @@ country of survey takers, average salary by job title, and more. Layering it wit
 • Data Correlation using Movies dataset:  
 
 https://github.com/njmlopez17/Portfolio_projects/blob/4ff0e659e7a3730a685bb31fa2a3f404d8aa87aa/01-Data%20Correlation%20using%20Python%20Jupyter%20Notebook%20(Movies%20dataset)/Data%20Correlation%20documentation.pdf
-
-• Creating a portfolio website:
-
-??
 
 • Web Scraping using a subset of Amazon dataset:
 
