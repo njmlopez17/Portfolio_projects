@@ -41,8 +41,6 @@ country of survey takers, average salary by job title, and more. Layering it wit
 
 • Power BI
 
-• Visual Studi Code
-
 ## <ins>End-To-End coverage documentation:<ins>
 
 • Data Correlation using Movies dataset:  
