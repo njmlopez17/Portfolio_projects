@@ -13,9 +13,6 @@ and auto-create (and append) a csv file; taking advantage of BeautifulSoup and R
 
 A subset of dataset, the work featured few factors to consider if going into a rental business in a particular area.
 
-• Live visualization of Airbnb portfolio: 
-https://public.tableau.com/app/profile/noel.lopez6438/viz/Airbnbdashboard_17310437930290/Dashboard1?publish=yes
-
 • Visualization of Bike Sales portfolio: 
 
 A subset of dataset, the dashboard spotlight flavors of scenarios on demographics that have purchased bikes; 
@@ -69,4 +66,8 @@ https://github.com/njmlopez17/Portfolio_projects/blob/4ff0e659e7a3730a685bb31fa2
 • Visualization using Power BI: 
 
 https://github.com/njmlopez17/Portfolio_projects/blob/4ff0e659e7a3730a685bb31fa2a3f404d8aa87aa/07-Power%20BI%20guided%20project%20(Data%20on%20working%20class%20demographics)/PBI%20visualization%20documentation.pdf
+
+## <ins>Live visualization of Airbnb portfolio:<ins>
+
+https://public.tableau.com/app/profile/noel.lopez6438/viz/Airbnbdashboard_17310437930290/Dashboard1?publish=yes
 
