@@ -13,6 +13,9 @@ and auto-create (and append) a csv file; taking advantage of BeautifulSoup and R
 
 A subset of dataset, the work featured few factors to consider if going into a rental business in a particular area.
 
+• Live visualization of Airbnb portfolio: 
+https://public.tableau.com/app/profile/noel.lopez6438/viz/Airbnbdashboard_17310437930290/Dashboard1?publish=yes
+
 • Visualization of Bike Sales portfolio: 
 
 A subset of dataset, the dashboard spotlight flavors of scenarios on demographics that have purchased bikes; 
